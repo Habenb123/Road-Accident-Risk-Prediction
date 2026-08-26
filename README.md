@@ -1,4 +1,4 @@
-# 🚦 Road Risk Intelligence
+# Road Risk Intelligence
 
 A machine learning and geospatial analytics system for analyzing road accident risk, detecting accident hotspots, and understanding the factors associated with road collisions.
 
@@ -6,7 +6,7 @@ The project uses **STATS19 road safety data published by the UK Department for T
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Road accidents are influenced by multiple factors, including road characteristics, weather conditions, lighting, time of day, junctions, speed limits, and traffic conditions.
 
@@ -22,7 +22,7 @@ The final system will combine **machine learning, geospatial analysis, and inter
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 ### 1. Accident Hotspot Detection
 
@@ -59,7 +59,7 @@ Develop an interactive map displaying:
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 ### STATS19 — Great Britain Road Safety Data
 
@@ -91,7 +91,7 @@ Vehicle and casualty tables provide additional information about vehicles, drive
 
 ---
 
-## 🧠 Planned Methodology
+## Planned Methodology
 
 ```text
                  STATS19 DATA
